@@ -8,11 +8,12 @@ Add questions or play free style, keep score and play often. The most hassle-fre
 
 ## License
 
-View our license [here](./license).
+Read our license [here](./license).
 
 ## Contributing
 
-View our contribution guidelines [here](./contributing.md).
+Read our contribution guidelines [here](./contributing.md).
+Make sure you read our [code of conduct](./contributing.md#code-of-conduct).
 
 ### Quick Start
 
