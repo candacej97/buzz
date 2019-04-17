@@ -12,13 +12,17 @@ Read our license [here](./license).
 
 ## Contributing
 
-Read our contribution guidelines [here](./contributing.md).
+Read our [contribution guidelines](./contributing.md) before you submit a pull request.
 Make sure you read our [code of conduct](./contributing.md#code-of-conduct).
 
-### Quick Start
+### Machine Prerequisites
 
-#### Machine Prerequisites
+### Dev Download
 
-#### Dev Download
+```
+git clone https://github.com/candacej97/buzz.git
+cd buzz
+npm install
+```
 
-#### Dev Testing
+### Dev Testing
