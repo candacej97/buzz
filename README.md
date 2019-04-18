@@ -4,6 +4,9 @@ Add questions or play free style, keep score and play often. The most hassle-fre
 
 ## Stack
 
+* Express
+* [socket.io](https://socket.io/)
+
 ## Live Version
 
 ## License
@@ -16,6 +19,9 @@ Read our [contribution guidelines](./contributing.md) before you submit a pull r
 Make sure you read our [code of conduct](./contributing.md#code-of-conduct).
 
 ### Machine Prerequisites
+
+* Node
+* NPM
 
 ### Dev Download
 
