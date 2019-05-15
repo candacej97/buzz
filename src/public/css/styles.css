@@ -1,0 +1,23 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6, a, p {
+    font-family: 'Helvetica Neue', sans-serif;
+    color: #707070;
+}
+
+h1 {
+    font-size: 50pt;
+}
+
+input {
+    border: 1px #FFCD27 solid;
+}
+
+input:hover {
+    border: 1px #FFCD27 solid;
+    background-color: #FFDF2E;
+    color: #FFFFFF;
+}

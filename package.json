@@ -2,7 +2,7 @@
   "name": "buzz",
   "version": "0.1.0",
   "description": "Add questions or play free style, keep score and play often. The most hassle-free way of quizzing in a large group.",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
@@ -19,6 +19,13 @@
   "homepage": "https://github.com/candacej97/buzz#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.2.0",
+    "express-session": "^1.15.6",
+    "hbs": "^4.0.1",
+    "mongoose": "^5.3.8",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
   }
 }
